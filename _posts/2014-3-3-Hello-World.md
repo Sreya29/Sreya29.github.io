@@ -13,6 +13,8 @@ published: true
 
 # In task3 and task5 learning through google helped me.But I found them little time taking as I am not familiar with C programming.I learnt some basics for task5.
 
+# Learning Linux commands and usung them is one of the most interesting part in task-2.
+
 # I am so happy and glad that i could learn how to create my personal website myself.I found task9 very interesting.
 
 # Above all i should mention that Google is always my best friend which never disappointed me in learning new things.
